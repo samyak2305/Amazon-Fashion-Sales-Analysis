@@ -19,7 +19,7 @@ This project analyzes Amazon Fashion sales data (March–June 2022) covering:
 - Fulfilment Analysis
 - Promotion Analysis
 
-# 🎯 Problem Statement
+## 🎯 Problem Statement
 
 Amazon Fashion processes thousands of customer orders across multiple product categories, regions, fulfillment methods, and promotional campaigns. While this transactional data contains valuable business information, it is difficult to identify meaningful trends and performance indicators without proper analysis.
 
